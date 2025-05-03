@@ -4,3 +4,5 @@ uv.lock
 __pycache__
 .python-version
 .ipynb_checkpoints
+*.pkl
+classification.png
